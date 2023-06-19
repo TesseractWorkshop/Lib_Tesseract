@@ -66,4 +66,9 @@
   (pad "6" thru_hole oval (at -3.575 -1.64) (size 1.45 1.8) (drill oval 0.85 1.2) (layers "*.Cu" "*.Mask") (tstamp 3363abd6-9676-4251-8a6a-9f6b2c9330e4))
   (pad "6" thru_hole oval (at 3.575 -5.44) (size 1.45 2) (drill oval 0.85 1.4) (layers "*.Cu" "*.Mask") (tstamp df2d5e75-bcfb-493b-a16b-825f8d85839d))
   (pad "6" thru_hole oval (at 3.575 -1.64) (size 1.45 1.8) (drill oval 0.85 1.2) (layers "*.Cu" "*.Mask") (tstamp 2960994c-89dc-4182-ab7f-69c7356b7352))
+  (model "X:/Projects/_Tesseract/Lib_Tesseract/3D/XKB Connectivity U254-051N-4BH806.step"
+    (offset (xyz -3.7 -1 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
