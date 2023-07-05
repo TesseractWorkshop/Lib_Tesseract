@@ -50,4 +50,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
   )
+  (model "D:/PERSO/Lib_Tesseract/3D/PN532_NFC_Assembly.STEP"
+    (offset (xyz 0 0 2.8))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )

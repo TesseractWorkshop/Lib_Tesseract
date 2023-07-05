@@ -74,4 +74,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
   )
+  (model "D:/PERSO/Lib_Tesseract/3D/TFP09-2-12B.stp"
+    (offset (xyz -0.95 10.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
 )

@@ -71,4 +71,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "D:/PERSO/Lib_Tesseract/3D/XKB Connectivity U254-051N-4BH806.step"
+    (offset (xyz -3.7 -1 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
